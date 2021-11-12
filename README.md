@@ -10,5 +10,5 @@ go get github.com/lsrz/go/temperature
 go install 安装和分享命令行工具
 
 ~~~~
-go install github.com/lsrz/go/helloworld
+go install github.com/lsrz/go/helloworld@latest
 ~~~~
